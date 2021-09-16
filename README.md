@@ -1,6 +1,6 @@
 # Sitecore Community meetup 8
 
-Meetup was Thusday, June 11th, 2020 and it was held online, and the event sponsered by [Delete Agency](https://www.deleteagency.com/)
+Meetup was Thusday, June 11th, 2020 and it was held online, and the event sponsored by [Delete Agency](https://www.deleteagency.com/)
 
 Agenda:
 
